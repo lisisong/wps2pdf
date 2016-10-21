@@ -1,0 +1,3 @@
+C:\迅雷下载\wps2pdf_src\wps2pdf\obj\x86\Debug\Interop.Office.dll
+C:\迅雷下载\wps2pdf_src\wps2pdf\obj\x86\Debug\Interop.Word.dll
+C:\迅雷下载\wps2pdf_src\wps2pdf\obj\x86\Debug\wps2pdf.csproj.ResolveComReference.cache
